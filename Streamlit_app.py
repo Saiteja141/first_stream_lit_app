@@ -1,2 +1,6 @@
 import streamlit
-streamlit.title('wines shop details')
+streamlit.title('Family details')
+streamlit.header('menu')
+streamlit.text(1,'Father')
+streamlit.text(2,'Mother')
+streamlit.text(3,'Brother')
