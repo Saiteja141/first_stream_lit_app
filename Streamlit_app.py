@@ -1,7 +1,7 @@
 import streamlit
-streamlit.title('Family details')
-streamlit.header('menu age')
-streamlit.text('Father 60')
-streamlit.text('Mother 50')
-streamlit.text('Brother 30')
+streamlit.title('Menu details')
+streamlit.header('menu price')
+streamlit.text(🥣 'Veg 90')
+streamlit.text(🥗 'CB 150')
+streamlit.text(🐔 'Chicken 120')
  
